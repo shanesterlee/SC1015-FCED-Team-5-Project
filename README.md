@@ -46,9 +46,9 @@ By utilising 3 different kinds of models, we were able to obtain similar accurac
 For the data set that we used, it was from Kaggle: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
 ## Contributors
-@shanesterlee - NLP, Random Forest, Slides, Video
-@kx0224 - Data Cleaning , Logistic Regression, Slides , Video
-@kaiiifeng - EDA, Decision Tree, Slides, Video
+@shanesterlee - NLP, Random Forest, Slides, Video <br />
+@kx0224 - Data Cleaning , Logistic Regression, Slides , Video <br />
+@kaiiifeng - EDA, Decision Tree, Slides, Video 
 
 ## References
 https://www.ibm.com/topics/natural-language-processing
