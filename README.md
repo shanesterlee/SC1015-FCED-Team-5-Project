@@ -51,9 +51,9 @@ For the data set that we used, it was from Kaggle: https://www.kaggle.com/datase
 @kaiiifeng - EDA, Decision Tree, Slides, Video 
 
 ## References
-https://www.ibm.com/topics/natural-language-processing
-https://monkeylearn.com/word-clouds/#:~:text=A%20word%20cloud%20
-https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/
-https://www.geeksforgeeks.org/understanding-logistic-regression/
-https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+https://www.ibm.com/topics/natural-language-processing <br />
+https://monkeylearn.com/word-clouds/#:~:text=A%20word%20cloud%20 <br />
+https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/ <br />
+https://www.geeksforgeeks.org/understanding-logistic-regression/ <br />
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html <br />
 https://www.statology.org/sklearn-classification-report/
