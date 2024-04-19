@@ -32,7 +32,7 @@ Job_id, title,telecommuting, has_company_logo, has_questions. Additionally after
 3. Logistic Regression
 
 ## Results and Conclusion
-By utilising 3 different kinds of models, we were able to obtain similar accuracy results on our test data. However, among the 3 models, logistic regression allowed us to obtain a test result with slightly higher accuracy as compared to other 2 which both have accuracy results of 0.98 based on F1 scores. (a weighted harmonic mean of precision and recall)
+By utilising 3 different kinds of models, we were able to obtain similar accuracy results on our test data. However, among the 3 models, logistic regression allowed us to obtain a test result with slightly higher accuracy as compared to other 2 which both have accuracy results of 0.98 based on F1 scores. (a weighted harmonic mean of precision and recall) Hence, we concluded that logistic regression model would be best suited to yield the most accurate and reliable data for our dataset.
 
 ## Insights gained from this project
 - Able to discern unnecessary information from a pool of data
